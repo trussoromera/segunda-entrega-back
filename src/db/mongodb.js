@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const mongoDB = 'mongodb+srv://martinabeauvais:Necesitas11@coderclustercomision381.asqu6kh.mongodb.net/viciouscoffee';
+
 mongoose.connect(mongoDB)
 
 const connect = () => {
